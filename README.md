@@ -5,13 +5,13 @@ create a twitter app: i)log into :https://apps.twitter.com/
  Reference link :https://www.digitalocean.com/community/tutorials/how-to-create-a-twitter-app
  
  #### Second Step
- **setup the installation**:
+**setup the installation**:
   $pip install tweepy  
-  ***Note***:Tweepy is an open-source and easy-to-use library that allows your Python programming projects to access the Twitter API.
+  **Note**:Tweepy is an open-source and easy-to-use library that allows your Python programming projects to access the Twitter API.
      
 ### Final Step
-**Fetch data fo hashtag(#)"""
-i)edit the ***ConnectAndFetchData.py***  
+**Fetch data fo hashtag(#)**
+i)edit the **ConnectAndFetchData.py** 
 consumer_key = 'your_consumer_key'
 consumer_secret = 'your_consumer_secret'
 access_token = 'your_access_token'
